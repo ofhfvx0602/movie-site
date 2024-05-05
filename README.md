@@ -3,7 +3,7 @@
 ![login_background](https://github.com/ofhfvx0602/movie-site/assets/95751619/36079909-3b55-4b56-b891-5f5a58e45483)
 
 ## メイン機能
-- 技術スタック: NEXT.js, Next-Auth, TypeScript, React, Tailwind, MongoDB, React-Hook-Form, vercel
+- 技術スタック: Next.js 14, Next-Auth, TypeScript, React, Tailwind, MongoDB, React-Hook-Form, vercel
 - 動画を検索することができます。
 - 動画のジャンルが分かれています。
 - 実際に動画の冒頭を見ることができます。
